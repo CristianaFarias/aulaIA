@@ -1,4 +1,3 @@
-
 primeiro_n = 10
 segundo_n = 15
 soma = primeiro_n + segundo_n
