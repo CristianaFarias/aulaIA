@@ -7,4 +7,3 @@ print("Nome do produto: ", nome_produto)
 print(f"Preço unitario: R$ {preco}")
 print("Quantidade: ", quantidade)
 print(f"Total a pagar: R$ {preco_total}")
-
