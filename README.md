@@ -1,0 +1,1 @@
+Este projeto faz parte das atividades práticas realizadas em sala de aula no módulo de Inteligência Artificial do curso RE/Start
