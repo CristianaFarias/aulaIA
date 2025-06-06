@@ -1,0 +1,3 @@
+venv/
+#Ignorar arquivos de ambiente
+.env
