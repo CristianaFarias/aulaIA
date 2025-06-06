@@ -15,4 +15,4 @@ def consulta_cotacao(moeda_origem: str, moeda_destino: str = "BRL"):
     except Exception as e:
         print(f"Erro ao consultar: {e}")
 moeda = input("Digita a sigla da moeda a ser convertida (ex: USD, EUR, BTC):").strip().upper()
-consulta_cotacao(moeda)
+consulta_cotacao(moeda) 
